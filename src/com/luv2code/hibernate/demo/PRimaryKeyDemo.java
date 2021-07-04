@@ -25,6 +25,7 @@ public class PRimaryKeyDemo {
 			Student tempStudent2 = new Student("Mary", "Poppins", "mary@luv2code.com");
 			Student tempStudent3 = new Student("Bonita", "Applebum", "bonita@luv2code.com");
 
+			
 			// start a transaction
 
 			session.beginTransaction();
