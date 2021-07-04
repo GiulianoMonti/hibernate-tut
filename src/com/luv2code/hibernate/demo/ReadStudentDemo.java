@@ -65,3 +65,6 @@ public class ReadStudentDemo {
 	}
 
 }
+
+
+// session.createQuery("from Student").getResultList()
