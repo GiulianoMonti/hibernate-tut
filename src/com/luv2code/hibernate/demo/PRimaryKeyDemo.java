@@ -38,6 +38,8 @@ public class PRimaryKeyDemo {
 
 			// commit transaction
 
+			
+			
 			session.getTransaction().commit();
 			System.out.println("Done!");
 
